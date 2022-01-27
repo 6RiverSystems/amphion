@@ -23,7 +23,7 @@
     "@juggle/resize-observer": "^2.2.1",
     "roslib": "^1.0.1",
     "stats-js": "^1.0.1",
-    "three": "^0.107.0",
+    "three": "^0.137.0",
     "urdf-loader": "^0.7.1"
   },
   "husky": {
